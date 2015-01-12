@@ -2,7 +2,7 @@
 //  RestaurantPointAnnotation.m
 //  Week 5 MapView Terry
 //
-//  Created by Aditya Narayan on 9/26/14.
+//  Created by Terry Bu on 9/26/14.
 //  Copyright (c) 2014 NM. All rights reserved.
 //
 
